@@ -1,0 +1,9 @@
+/tree-sitter/Cargo.toml
+/tree-sitter/aella.dylib
+/tree-sitter/aella.so.dSYM/
+/tree-sitter/binding.gyp
+/tree-sitter/bindings/
+/tree-sitter/build.sh
+/tree-sitter/node_modules/
+/tree-sitter/package-lock.json
+/tree-sitter/src/

@@ -1,0 +1,3 @@
+#+title: Mode for Aella based on tree-sitter
+
+This is mainly an excuse to play with the [[https://emacs-tree-sitter.github.io/][tree sitter]] library and see what it feels like to develop modes for new languages. It feels pretty nice!
